@@ -1,0 +1,8 @@
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\bin\Debug\Practicals.exe.config
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\bin\Debug\Practicals.exe
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\bin\Debug\Practicals.pdb
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\obj\Debug\Practicals.csproj.AssemblyReference.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\obj\Debug\Practicals.csproj.SuggestedBindingRedirects.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\obj\Debug\Practicals.csproj.CoreCompileInputs.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\obj\Debug\Practicals.exe
+C:\Users\AryanSisodiya\source\repos\Tuts\Practicals\Practicals\obj\Debug\Practicals.pdb

@@ -1,0 +1,12 @@
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.AssemblyReference.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.SplashScreen.resources
+C:\Users\AryanSisodiya\source\repos\Tuts\SplashScreen\SplashScreen\obj\Debug\SplashScreen.mainWindow.resources
