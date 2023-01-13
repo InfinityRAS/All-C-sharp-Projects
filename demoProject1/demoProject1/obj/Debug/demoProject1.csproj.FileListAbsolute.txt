@@ -1,0 +1,8 @@
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\bin\Debug\demoProject1.exe.config
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\bin\Debug\demoProject1.exe
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\bin\Debug\demoProject1.pdb
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\obj\Debug\demoProject1.csproj.AssemblyReference.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\obj\Debug\demoProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\obj\Debug\demoProject1.csproj.CoreCompileInputs.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\obj\Debug\demoProject1.exe
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\demoProject1\demoProject1\obj\Debug\demoProject1.pdb
