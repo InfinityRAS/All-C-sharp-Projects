@@ -1,0 +1,28 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AcrylicDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Custom="using:Microsoft.UI.Xaml.Controls" xmlns:media="using:Microsoft.UI.Xaml.Media"
+    x:Class="AcrylicDemo.MainPage"
+    mc:Ignorable="d"
+    Width="1366" Height="720">
+
+    <Grid Height="720" Margin="0,0,10,0">
+
+        <!--<Custom:TwoPaneView Height="0" Width="0"/>-->
+        <Rectangle x:Name="acrylicPane" Margin="-15,-72,678,-81" >
+            <Rectangle.Fill>
+                <AcrylicBrush BackgroundSource="HostBackdrop" FallbackColor="Black" TintOpacity="0.229000010876916" TintColor="Black" />
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <TextBlock TextWrapping="Wrap" Text="The Infinity" FontWeight="Bold" FontSize="150" Margin="772,124,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FocusVisualSecondaryBrush="#B2000000" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Width="633">
+            <TextBlock.RenderTransform>
+                <CompositeTransform Rotation="-21.217"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+
+    </Grid>
+</Page>

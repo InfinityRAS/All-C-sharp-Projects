@@ -1,0 +1,1 @@
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\uwpDemoApp01\uwpDemoApp01\uwpDemoApp01.csproj;x64

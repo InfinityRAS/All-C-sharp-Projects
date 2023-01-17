@@ -92,7 +92,7 @@ namespace HelloWorld
 
             /* operators in C#
                 Arithmetic operators    +,-,*,/
-                assignment operators    =, +=, *=, /=, -=
+                assignment operators    =, +=, *=, /=, -= 
                 logical operators       &&, !, ||
                 comparison operators    >,<,<=,>=, !=, ==
             */

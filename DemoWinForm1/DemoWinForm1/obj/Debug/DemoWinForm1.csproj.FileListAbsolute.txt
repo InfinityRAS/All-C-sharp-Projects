@@ -1,0 +1,11 @@
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\bin\Debug\DemoWinForm1.exe.config
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\bin\Debug\DemoWinForm1.exe
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\bin\Debug\DemoWinForm1.pdb
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.csproj.AssemblyReference.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.DemoWinForm.resources
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.Properties.Resources.resources
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.csproj.GenerateResource.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.csproj.CoreCompileInputs.cache
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.exe
+C:\Users\AryanSisodiya\source\repos\All-C-sharp-Projects\DemoWinForm1\DemoWinForm1\obj\Debug\DemoWinForm1.pdb
